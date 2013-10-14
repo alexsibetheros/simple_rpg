@@ -1,0 +1,10 @@
+Flame 50 1 10 3 2 5
+Torch 60 1 15 4 2 5
+Flare 70 2 20 5 3 10
+Blaze 80 3 30 7 3 10
+Inferno 100 5 50 10 4 20
+Fireball 150 7 70 15 4 30
+Explosion 200 10 100 20 5 40
+Meteor 130 8 120 13 5 25
+Dragon_Fire 250 10 150 25 6 60
+Fireblast 300 20 200 50 10 80

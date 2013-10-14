@@ -1,0 +1,15 @@
+small_mana_potion 10 0 0 0 20 0
+medium_mana_potion 50 0 0 0 150 0
+large_mana_potion 200 0 0 0 500 0
+small_health_potion 10 0 0 0 0 20
+medium_health_potion 50 0 0 0 0 150
+large_health_potion 200 0 0 0 0 500
+strength++ 50 2 0 0 0 0
+strength++_v2 100 5 0 0 0 0
+strength++_v3 200 15 0 0 0 0 
+dexterity++ 50 0 2 0 0 0
+dexterity++_v2 100 0 5 0 0 0
+dexterity++_v3 200 0 15 0 0 0
+agility++ 50 0 0 2 0 0
+agility++_v2 100 0 0 5 0 0
+agility++_v3 200 0 0 15 0 0

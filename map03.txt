@@ -1,0 +1,10 @@
+map03  9
+ccccccccc
+ccccccccc
+ncnnnnncn
+nccccnccn
+ncccncccn
+nccnccccn
+ncnnnnncm
+ccccccccc
+ccccccccc

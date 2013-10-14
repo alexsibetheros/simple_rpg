@@ -1,0 +1,7 @@
+map02 6
+cncncc
+cccnnc
+nccnnc
+ccnmcc
+ccnncc
+nccccn

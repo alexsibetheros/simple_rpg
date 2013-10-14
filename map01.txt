@@ -1,0 +1,6 @@
+map01 5  
+cmncc
+ncncc
+ncccc
+cnncn
+ccccc
