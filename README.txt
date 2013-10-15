@@ -1,10 +1,45 @@
- 
+Will translate to english in upcoming days. 
 
 Project αντικειμενοστραφούς προγραμματισμού 3ου εξαμήνου υλοποιημένο από τους :
-Αλέξανδρος Συμπέθερος1115 2009 00261Ιωάννης Χρόνης1115 2009 00125
+Αλέξανδρος Συμπέθερος
+1115 2009 00261
+Ιωάννης Χρόνης
+1115 2009 00125
 
 Αρχεία που περιέχει το project.zip :
-* block.cpp* block.h* map01.txt* functions.cpp* grid.h* armor_list.txt* grid.cpp* header.h* firespell_list.txt* hero.cpp* hero.h* icespell_list.txt* item.cpp* item.h* lightning_list.txt* living.cpp* living.h* monster_list.txt* main.cpp* monster.h* potion_list.txt* monster.cpp* Party.h* weapon_list.txt* Party.cpp* position.h* position.cpp* spell.h* README.pdf* spell.cpp* README.txt
+* block.cpp
+* block.h
+* map01.txt
+* functions.cpp
+* grid.h
+* armor_list.txt
+* grid.cpp
+* header.h
+* firespell_list.txt
+* hero.cpp
+* hero.h
+* icespell_list.txt
+* item.cpp
+* item.h
+* lightning_list.txt
+* living.cpp
+* living.h
+* monster_list.txt
+* main.cpp
+* monster.h
+* potion_list.txt
+* monster.cpp
+* Party.h
+* weapon_list.txt
+* Party.cpp
+* position.h
+
+* position.cpp
+* spell.h
+* README.pdf
+* spell.cpp
+
+* README.txt
 
 Εντολή για τη δημιουργία του εκτελεσίμου:
        g++ -o ChronicSeg.exe  block.cpp  functions.cpp  grid.cpp  hero.cpp  item.cpp  living.cpp  main.cpp monster.cpp  Party.cpp  position.cpp  spell.cpp
